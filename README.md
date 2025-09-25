@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I love turning data into actionable insights and b
 
 ## 🛠️ **Skills**
 
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, SAS, R
 - **Libraries:** Pandas, scikit-learn, XGBoost, TensorFlow, PyTorch
 - **Data Visualization:** Matplotlib, Seaborn, Streamlit
 - **Tools:** Jupyter, Google Colab, Git, Linux
